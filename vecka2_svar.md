@@ -13,3 +13,12 @@ Ett Git-commit är som en sparpunkt i projektet. När man gör en commit sparar 
 Det är viktigt eftersom man kan se projektets historik och gå tillbaka till en tidigare version om något blir fel.
 
 Ett exempel är om jag arbetar med en fil och lägger till ny kod som gör att programmet slutar fungera. Om jag har gjort commits tidigare kan jag jämföra ändringarna och gå tillbaka till en version som fungerade. På så sätt hjälper Git mig att undvika att förlora fungerande arbete.
+## Fråga 3 – Samarbete med GitHub
+
+Samarbete med GitHub innebär att flera personer kan arbeta med samma projekt utan att direkt ändra i huvudversionen.
+
+En branch är en separat version av projektet där man kan arbeta med nya ändringar utan att påverka main.
+
+En pull request används när man vill föreslå att ändringarna från en branch ska läggas till i main. Då kan man kontrollera ändringarna innan de läggs ihop.
+
+Merge betyder att ändringarna från en branch slås ihop med main. På så sätt kan flera personer arbeta med olika delar av projektet och sedan samla allt i samma version.
